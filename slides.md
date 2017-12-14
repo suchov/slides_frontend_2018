@@ -5,11 +5,13 @@ author:
   url: http://suchov.com/
 output: slides.html
 controls: true
+theme: sudodoki/reveal-cleaver-theme
+style: style.css
 
 --
 
-# frontend course 2018
-## Quick look what we need to do to survive
+## frontend course 2018
+### Quick look what we need to do to survive
 
 --
 
