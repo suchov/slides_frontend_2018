@@ -10,8 +10,12 @@ style: style.css
 
 --
 
+## ![](img/kottan.png)
+
+--
+
 ## frontend course 2018
-### Quick look what we need to do to survive
+### quick look on what we need to do to survive
 
 --
 
@@ -23,10 +27,18 @@ This will be in a separate paragraph
 
 --
 
-### A list of things
+### A
 
-* Item 1
-* Item B
-* Item gamma
+--
 
-No need for multiple templates!
+### An interview with the star
+
+* What are you doing here?
+*
+* Where do you see yourself in a three years?
+
+--
+
+## [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
+
+by Dr. **Barbara Oakley**
