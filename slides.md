@@ -10,7 +10,19 @@ style: style.css
 
 --
 
-## ![](img/kottan.png)
+## ![kottan](img/kottan.png)
+
+
+--
+
+# Stanford
+## Programming Methodology
+by Professor **Mehran Sahami** for the Stanford Computer Science Department (CS106A)
+[Lecture 1 | Programming Methodology (Stanford)](https://www.youtube.com/watch?v=KkMDCCdjyW8)
+
+--
+
+#### ![snickers](img/snickers.png)
 
 --
 
@@ -19,19 +31,13 @@ style: style.css
 
 --
 
-### A textual example
+## [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
 
-Content can be written in **Markdown!** New lines no longer need two angle brackets.
-
-This will be in a separate paragraph
+by Dr. **Barbara Oakley**
 
 --
 
-### A
-
---
-
-### An interview with the star
+### Что будет на курсах:
 
 * What are you doing here?
 *
@@ -39,6 +45,15 @@ This will be in a separate paragraph
 
 --
 
-## [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
+### An interview with the star
 
-by Dr. **Barbara Oakley**
+* Что Вы здесь делаете?
+*
+* Где Вы видите себя через 2 года?
+
+--
+
+# Home work
+[Intro from John on youtube](https://www.youtube.com/watch?v=3wZsafZ0UPk)
+
+You can ask questions John in our Gitter chat by tagging him: `@sudodoki`
