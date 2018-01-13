@@ -12,6 +12,15 @@ style: style.css
 
 ## ![kottan](img/kottan.png)
 
+--
+
+## many thanks to:
+![cogniance](img/cogniance.png)
+
+--
+
+## frontend course 2018
+### quick look on what we need to do to survive
 
 --
 
@@ -26,30 +35,36 @@ by Professor **Mehran Sahami** for the Stanford Computer Science Department (CS1
 
 --
 
-## frontend course 2018
-### quick look on what we need to do to survive
-
---
-
 ## [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
 
 by Dr. **Barbara Oakley**
 
 --
 
+# Who we are?
+
+--
+
+# Who you are?
+
+--
+
+# Our goals?
+
+--
+
 ### Что будет на курсах:
 
-* What are you doing here?
-*
-* Where do you see yourself in a three years?
+* HTML, CSS (верстка)
+* JS
 
 --
 
 ### An interview with the star
 
+* Предсавьтесь, что вы за звезда?
 * Что Вы здесь делаете?
-*
-* Где Вы видите себя через 2 года?
+* Где(кем) Вы видите себя через 2 года?
 
 --
 
