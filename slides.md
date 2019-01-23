@@ -10,11 +10,9 @@ style: style.css
 
 --
 
-WiFi: Cogniance_UA_guest
-
-Password: welcome2congniance
-
 ## ![kottan](img/kottan.png)
+WiFi: Cogniance_UA_guest
+Password: welcome2congniance
 
 --
 
@@ -23,7 +21,7 @@ Password: welcome2congniance
 
 --
 
-## frontend course 2018
+## frontend course 2019
 ### quick look on what we need to do to survive
 
 --
@@ -69,31 +67,24 @@ by Dr. **Barbara Oakley**
 
 --
 
-### Что будет на курсах:
-
-* HTML, CSS (верстка)
-* JS
+### Что будет на курсах?
 
 --
 
-# бьемся на группы?
+
+# Нужна ли нам Ср?
 
 --
 
-# Нужны ли нам Пн, Ср?
+# Длительность курса???
 
 --
 
-# Длительность курса?
+# Что будет на лексиях?
 
 --
 
-# Нам лекции нужны?
-# А кого мы на них будем звать?
-
---
-
-# Засылаем PR когда проходим следующий таск?
+# Что за пи-тупи?
 
 --
 
@@ -104,4 +95,3 @@ by Dr. **Barbara Oakley**
 # Home work
 [Intro from John on youtube](https://www.youtube.com/watch?v=3wZsafZ0UPk)
 
-You can ask questions John in our Gitter chat by tagging him: `@sudodoki`
