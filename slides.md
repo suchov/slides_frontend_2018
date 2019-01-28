@@ -11,18 +11,6 @@ style: style.css
 --
 
 ## ![kottan](img/kottan.png)
-WiFi: Cogniance_UA_guest
-Password: welcome2congniance
-
---
-
-## many thanks to:
-![cogniance](img/cogniance.png)
-
---
-
-## frontend course 2019
-### quick look on what we need to do to survive
 
 --
 
@@ -33,13 +21,11 @@ by Professor **Mehran Sahami** for the Stanford Computer Science Department (CS1
 
 --
 
-#### ![snickers](img/snickers.png)
+# ![snickers](img/snickers.png)
 
 --
 
-## [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
-
-by Dr. **Barbara Oakley**
+# [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) by Dr. **Barbara Oakley**
 
 --
 
@@ -71,23 +57,6 @@ by Dr. **Barbara Oakley**
 
 --
 
-
-# Нужна ли нам Ср?
-
---
-
-# Длительность курса???
-
---
-
-# Что будет на лексиях?
-
---
-
-# Что за пи-тупи?
-
---
-
 # О чем я забыл?
 
 --
@@ -95,3 +64,4 @@ by Dr. **Barbara Oakley**
 # Home work
 [Intro from John on youtube](https://www.youtube.com/watch?v=3wZsafZ0UPk)
 
+You can ask questions John in our Gitter chat by tagging him: `@sudodoki`
