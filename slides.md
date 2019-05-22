@@ -39,5 +39,3 @@ style: style.css
 --
 
 ### Community
-
---
